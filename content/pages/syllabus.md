@@ -47,10 +47,47 @@ Readings will be assigned primarily from text. Problem sets will be assigned wee
 Grading
 -------
 
-| activities | percentages |
-| --- | --- |
-| In-class Quiz | 40% |
-| Homework, Court Case | 15% |
-| Final Quiz | 45% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+activities
+{{< thclose >}}
+{{< thopen >}}
+percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework, Court Case
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 All quizzes and exams are in-class, closed-book. One 8-1/2" x 11" sheet of handwritten notes will be permitted (one side for first quiz, both sides for final).

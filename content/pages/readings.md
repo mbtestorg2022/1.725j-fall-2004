@@ -8,33 +8,347 @@ All readings in the table below are from the required text:
 
 Hemond, H. F., and E. J. Fechner. _Chemical Fate and Transport in the Environment._ 2nd ed. Academic Press, 2000. ISBN: 0123402751.
 
-| LEC # | TOPICS | REAdings |
-| --- | --- | --- |
-| 1 | Control Volumes  {{< br >}}Mass Balance  {{< br >}}Advective/Dispersive Transport | Read through p. 25 |
-| 2 | Chemical Equilibria  {{< br >}}Mass Action  {{< br >}}Electroneutrality  {{< br >}}Mass Conservation | &nbsp; |
-| 3 | Chemical Kinetics  {{< br >}}Partitioning | Read through p. 137 |
-| 4 | River Transport | &nbsp; |
-| 5 | Lakes and Wetlands  {{< br >}}Estuaries | &nbsp; |
-| 6 | Sediment Transport  {{< br >}}Bottom Sediments  {{< br >}}Paleolimnology | &nbsp; |
-| 7 | Air-Water Exchange | Read through p. 160 |
-| 8 | Major Ion Chemistry of Natural Waters | &nbsp; |
-| 9 | Ecosystem Characteristics  {{< br >}}Redox Chemistry | Read through p. 175 |
-| 10 | Redox Chemistry in Ecosystems | &nbsp; |
-| 11 | BOD/DO Modeling  {{< br >}}Microbial Kinetics | Read through p. 220 |
-| 12 | Photochemistry  {{< br >}}Hydrolysis | &nbsp; |
-| &nbsp; | Quiz 1 | &nbsp; |
-| 13 | Groundwater and Aquifers  {{< br >}}Darcy's Law  {{< br >}}Flow Nets | &nbsp; |
-| 14 | Wells  {{< br >}}Superposition  {{< br >}}Capture Curves | Read through p. 297 |
-| 15 | Transient Well Hydraulics  {{< br >}}Transport and Retardation | &nbsp; |
-| 16 | Unsaturated Zone Flow  {{< br >}}NAPL | Read through p. 346 |
-| 17 | Biodegradation  {{< br >}}Bioremediation | &nbsp; |
-| 18 | Atmospheric Structure  {{< br >}}Adiabatic Lapse Rates | Read through p. 398 |
-| 19 | Global, Synoptic, Local Scale Circulation | &nbsp; |
-| 20 | Gaussian Plume Modeling  {{< br >}}Deposition Processes | &nbsp; |
-| 21 | Tropospheric Chemistry  {{< br >}}Acid Deposition | &nbsp; |
-| 22 | Stratospheric Chemistry  {{< br >}}Radiative Activity of Gases | &nbsp; |
-| 23 | Court Case I | &nbsp; |
-| 24 | Court Case II |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+REAdings
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Control Volumes  
+Mass Balance  
+Advective/Dispersive Transport
+{{< tdclose >}}
+{{< tdopen >}}
+Read through p. 25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical Equilibria  
+Mass Action  
+Electroneutrality  
+Mass Conservation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical Kinetics  
+Partitioning
+{{< tdclose >}}
+{{< tdopen >}}
+Read through p. 137
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+River Transport
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Lakes and Wetlands  
+Estuaries
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Sediment Transport  
+Bottom Sediments  
+Paleolimnology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Air-Water Exchange
+{{< tdclose >}}
+{{< tdopen >}}
+Read through p. 160
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Major Ion Chemistry of Natural Waters
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Ecosystem Characteristics  
+Redox Chemistry
+{{< tdclose >}}
+{{< tdopen >}}
+Read through p. 175
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Redox Chemistry in Ecosystems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+BOD/DO Modeling  
+Microbial Kinetics
+{{< tdclose >}}
+{{< tdopen >}}
+Read through p. 220
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Photochemistry  
+Hydrolysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Groundwater and Aquifers  
+Darcy's Law  
+Flow Nets
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Wells  
+Superposition  
+Capture Curves
+{{< tdclose >}}
+{{< tdopen >}}
+Read through p. 297
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Transient Well Hydraulics  
+Transport and Retardation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Unsaturated Zone Flow  
+NAPL
+{{< tdclose >}}
+{{< tdopen >}}
+Read through p. 346
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Biodegradation  
+Bioremediation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Atmospheric Structure  
+Adiabatic Lapse Rates
+{{< tdclose >}}
+{{< tdopen >}}
+Read through p. 398
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Global, Synoptic, Local Scale Circulation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Gaussian Plume Modeling  
+Deposition Processes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Tropospheric Chemistry  
+Acid Deposition
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Stratospheric Chemistry  
+Radiative Activity of Gases
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Court Case I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Court Case II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Other References
 ----------------
