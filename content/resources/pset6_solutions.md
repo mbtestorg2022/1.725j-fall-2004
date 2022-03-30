@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004/5f514038245e2875ce16d8a3106276ad_PSet6_Solutions.pdf
 file_type: application/pdf
+parent_uid: 75e0b678-d8e3-8cb9-5a40-35c31930283d
 resourcetype: Document
 title: PSet6_Solutions.pdf
 uid: 5f514038-245e-2875-ce16-d8a3106276ad
